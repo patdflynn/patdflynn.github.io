@@ -1,4 +1,4 @@
 # patdflynn.github.io
 
 Plan:
-Blog/medium account synced withjupyter notebooks corresponding to posts.
+Blog/medium account synced with jupyter notebooks corresponding to posts.
